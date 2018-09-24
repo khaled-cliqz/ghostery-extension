@@ -96,6 +96,7 @@ class ProductsView extends Component {
 						<div className="ProductsView__secondaryPromoDescription">
 							{t('hub_products_third_promo_description')}
 						</div>
+						{/*
 						<div className="ProductsView__storeImageContainer">
 							<a href="https://itunes.apple.com/us/app/ghostery-privacy-browser/id472789016?mt=8" target="_blank" rel="noopener noreferrer">
 								<img
@@ -104,6 +105,7 @@ class ProductsView extends Component {
 								/>
 							</a>
 						</div>
+						*/}
 					</div>
 				</div>
 			</div>

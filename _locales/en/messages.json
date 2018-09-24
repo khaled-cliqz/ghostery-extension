@@ -1702,7 +1702,7 @@
 		"message": "Browse ad- and tracker-free on the go with our updated and enhanced mobile browser. Now equipped with a private search engine!"
 	},
 	"hub_products_second_promo_title": {
-		"message": "Ghostery New Tab"
+		"message": "Ghostery Smart Tab"
 	},
 	"hub_products_second_promo_description": {
 		"message": "Search privately, view tracker stats, and manage Rewards with our new tab feature. Coming soon!"
@@ -2086,7 +2086,7 @@
 		"placeholders": {
 			"days": {
 				"content": "$1"
-			} 
+			}
 		}
 	},
 	"subscription_one_day_left": {
@@ -2102,4 +2102,3 @@
 		"message": "Submit Issue"
 	}
 }
-
